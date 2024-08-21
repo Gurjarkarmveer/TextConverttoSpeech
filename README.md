@@ -9,7 +9,7 @@ Features
 
 Demo
 
-You can view the live demo of the project here.
+You can view the live demo of the project https://gurjarkarmveer.github.io/TextConverttoSpeech/.
 
 Installation
 
@@ -17,7 +17,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/text-to-speech-converter.git
+git clone https://github.com/Gurjarkarmveer/TextConverttoSpeech
 
 Navigate to the project directory:
 
